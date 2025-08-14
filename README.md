@@ -1,12 +1,42 @@
-# React + Vite
+# Fake Screenshot Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fun project where you can **create fake screenshots** of payments or notifications and share them with friends or on platforms like X, Twitter, etc. It’s purely for entertainment purposes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create realistic-looking screenshots for **Stripe, PayPal, X (Twitter)** notifications.
+- Select different wallpapers for your mock screenshot.
+- Customize **SIM name, date, time, notification type, amount, payee, and time ago**.
+- Preview the screenshot in real-time.
+- Download the generated screenshot as an image.
 
-## Expanding the ESLint configuration
+## Live demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://fakescreenshot-flyu.vercel.app/
+
+
+## Getting Started
+
+Follow these steps to run the project locally:
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+2. npm i
+3. npm run dev
+
+
+
+
+
+
+
+
+
+live Preview
+
+https://vercel.com/vishals-projects-f6d9e195/fakescreenshot-flyu/CzMRFuj1jsQX1MCi34xYaYLjVSbw
