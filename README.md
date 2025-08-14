@@ -10,7 +10,7 @@ This is a fun project where you can **create fake screenshots** of payments or n
 - Preview the screenshot in real-time.
 - Download the generated screenshot as an image.
 
-## Live demo
+## Live preview
 
 https://fakescreenshot-flyu.vercel.app/
 
@@ -37,6 +37,4 @@ Follow these steps to run the project locally:
 
 
 
-live Preview
 
-https://vercel.com/vishals-projects-f6d9e195/fakescreenshot-flyu/CzMRFuj1jsQX1MCi34xYaYLjVSbw
