@@ -1,10 +1,10 @@
 
 import React, { useRef } from "react";
-import log from "./assets/images/log.jpg";
-import wallpaper from './assets/images/wallpaper1.jpg'
+
 import { BatteryMedium, Lock, Wifi } from "lucide-react";
 import paypalLogo from "./assets/images/paypalLogo.png";
-import stripelogo from "./assets/images/stripeLogo.png";
+
+import stripelogo from './assets/images/stripelogo.png'
 import xlogos from "./assets/images/xlogo.png";
 import html2canvas from "html2canvas"
 
